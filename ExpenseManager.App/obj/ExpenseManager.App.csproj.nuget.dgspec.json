@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project-c#\\ExpenseManager\\ExpenseManager.App\\ExpenseManager.App.csproj": {}
+    "D:\\Project-C#\\ExpenseManager\\ExpenseManager.App\\ExpenseManager.App.csproj": {}
   },
   "projects": {
-    "D:\\Project-c#\\ExpenseManager\\ExpenseManager.App\\ExpenseManager.App.csproj": {
+    "D:\\Project-C#\\ExpenseManager\\ExpenseManager.App\\ExpenseManager.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project-c#\\ExpenseManager\\ExpenseManager.App\\ExpenseManager.App.csproj",
+        "projectUniqueName": "D:\\Project-C#\\ExpenseManager\\ExpenseManager.App\\ExpenseManager.App.csproj",
         "projectName": "ExpenseManager.App",
-        "projectPath": "D:\\Project-c#\\ExpenseManager\\ExpenseManager.App\\ExpenseManager.App.csproj",
+        "projectPath": "D:\\Project-C#\\ExpenseManager\\ExpenseManager.App\\ExpenseManager.App.csproj",
         "packagesPath": "C:\\Users\\nsbni\\.nuget\\packages\\",
-        "outputPath": "D:\\Project-c#\\ExpenseManager\\ExpenseManager.App\\obj\\",
+        "outputPath": "D:\\Project-C#\\ExpenseManager\\ExpenseManager.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,11 +52,7 @@
           "dependencies": {
             "Microsoft.Web.WebView2": {
               "target": "Package",
-              "version": "[1.0.1823.32, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
+              "version": "[1.0.2592.51, )"
             }
           },
           "imports": [
