@@ -1,0 +1,1 @@
+namespace ExpenseManager.App.Repositories { class ExpenseRepository { } }

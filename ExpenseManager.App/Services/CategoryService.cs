@@ -1,0 +1,1 @@
+namespace ExpenseManager.App.Services { class CategoryService { } }

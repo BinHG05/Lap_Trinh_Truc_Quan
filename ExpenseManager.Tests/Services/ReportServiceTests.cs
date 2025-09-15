@@ -1,0 +1,1 @@
+namespace ExpenseManager.Tests.Services { class ReportServiceTests { } }

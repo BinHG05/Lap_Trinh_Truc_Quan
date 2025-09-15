@@ -1,0 +1,1 @@
+namespace ExpenseManager.App.Helpers { class ConfigHelper { } }

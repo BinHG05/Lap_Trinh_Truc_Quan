@@ -1,0 +1,1 @@
+namespace ExpenseManager.App.Controllers { class CategoryController { } }

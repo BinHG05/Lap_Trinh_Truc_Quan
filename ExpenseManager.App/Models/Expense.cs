@@ -1,0 +1,1 @@
+namespace ExpenseManager.App.Models { class Expense { } }

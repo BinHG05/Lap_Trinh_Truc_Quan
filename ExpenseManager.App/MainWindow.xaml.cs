@@ -1,0 +1,1 @@
+namespace ExpenseManager.App { public partial class MainWindow { } }

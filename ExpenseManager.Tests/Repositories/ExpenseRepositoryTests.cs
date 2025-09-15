@@ -1,0 +1,1 @@
+namespace ExpenseManager.Tests.Repositories { class ExpenseRepositoryTests { } }
