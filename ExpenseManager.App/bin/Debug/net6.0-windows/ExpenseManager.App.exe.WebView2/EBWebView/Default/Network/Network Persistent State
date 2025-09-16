@@ -1,1 +1,1 @@
-{"net":{"http_server_properties":{"servers":[],"version":5},"network_qualities":{"CAISABiAgICA+P////8B":"4G"}}}
+{"net":{"http_server_properties":{"servers":[{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13402509983729057","port":443,"protocol_str":"quic"}],"anonymization":["DAAAAAcAAABmaWxlOi8vAA==",false,0],"network_stats":{"srtt":35663},"server":"https://cdn.jsdelivr.net","supports_spdy":true}],"supports_quic":{"address":"2001:ee0:d78b:ad30:9189:bc2a:758c:87e2","used_quic":true},"version":5},"network_qualities":{"CAISABiAgICA+P////8B":"4G"}}}

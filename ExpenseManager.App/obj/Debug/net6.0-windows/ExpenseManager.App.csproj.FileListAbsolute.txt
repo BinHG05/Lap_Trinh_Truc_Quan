@@ -28,3 +28,33 @@ D:\Project-c#\ExpenseManager\ExpenseManager.App\obj\Debug\net6.0-windows\refint\
 D:\Project-c#\ExpenseManager\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.pdb
 D:\Project-c#\ExpenseManager\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.genruntimeconfig.cache
 D:\Project-c#\ExpenseManager\ExpenseManager.App\obj\Debug\net6.0-windows\ref\ExpenseManager.App.dll
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\ExpenseManager.App.exe
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\WebAssets\index.html
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\ExpenseManager.App.deps.json
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\ExpenseManager.App.runtimeconfig.json
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\ExpenseManager.App.dll
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\ExpenseManager.App.pdb
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.csproj.AssemblyReference.cache
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App_Content.g.cs
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App_MarkupCompile.cache
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.g.resources
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.AssemblyInfoInputs.cache
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.AssemblyInfo.cs
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.csproj.CoreCompileInputs.cache
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.sourcelink.json
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseM.CDA03EC5.Up2Date
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.dll
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\refint\ExpenseManager.App.dll
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.pdb
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ExpenseManager.App.genruntimeconfig.cache
+C:\Users\tanbe\source\repos\Lap Trinh Truc Quan_BTL\ExpenseManager.App\obj\Debug\net6.0-windows\ref\ExpenseManager.App.dll

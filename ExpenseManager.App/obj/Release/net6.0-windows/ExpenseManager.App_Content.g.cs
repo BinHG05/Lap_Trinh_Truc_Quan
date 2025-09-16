@@ -8,7 +8,15 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webassets/components/header.html")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webassets/css/style.css")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webassets/css/theme.css")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webassets/index.html")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webassets/js/login.js")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webassets/libs/boostrap.min.css")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webassets/libs/chart.js")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webassets/pages/login.html")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webassets/pages/signup.html")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webview2loader.dll")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webview2loader.dll")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webview2loader.dll")]

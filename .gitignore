@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# WebView2 cache (nếu có)
+WebView2/
+
+# Logs
+*.log
+
+# Others
+*.DS_Store
+Thumbs.db

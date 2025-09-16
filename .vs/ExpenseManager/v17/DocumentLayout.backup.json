@@ -1,9 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project-c#\\ExpenseManager\\",
+  "WorkspaceRootPath": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|d:\\project-c#\\expensemanager\\expensemanager.app\\expensemanager.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\webassets\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\webassets\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\webassets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\webassets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\webassets\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\webassets\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\webassets\\libs\\boostrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\webassets\\libs\\boostrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\webassets\\components\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\webassets\\components\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\webassets\\libs\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\webassets\\libs\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\webassets\\pages\\signup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\webassets\\pages\\signup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\webassets\\pages\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\webassets\\pages\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\webassets\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\webassets\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|c:\\users\\tanbe\\source\\repos\\lap trinh truc quan_btl\\expensemanager.app\\expensemanager.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ExpenseManager.App\\ExpenseManager.App.csproj|solutionrelative:expensemanager.app\\expensemanager.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -19,15 +71,181 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExpenseManager.App.csproj",
-              "DocumentMoniker": "D:\\Project-c#\\ExpenseManager\\ExpenseManager.App\\ExpenseManager.App.csproj",
-              "RelativeDocumentMoniker": "ExpenseManager.App\\ExpenseManager.App.csproj",
-              "ToolTip": "D:\\Project-c#\\ExpenseManager\\ExpenseManager.App\\ExpenseManager.App.csproj",
-              "RelativeToolTip": "ExpenseManager.App\\ExpenseManager.App.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-15T09:23:10.732Z",
+              "Title": "theme.css",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\css\\theme.css",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\WebAssets\\css\\theme.css",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\css\\theme.css",
+              "RelativeToolTip": "ExpenseManager.App\\WebAssets\\css\\theme.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-16T08:53:25.15Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\css\\style.css",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\WebAssets\\css\\style.css",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\css\\style.css",
+              "RelativeToolTip": "ExpenseManager.App\\WebAssets\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-16T08:53:13.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\js\\login.js",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\WebAssets\\js\\login.js",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\js\\login.js",
+              "RelativeToolTip": "ExpenseManager.App\\WebAssets\\js\\login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-16T08:53:01.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "header.html",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\components\\header.html",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\WebAssets\\components\\header.html",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\components\\header.html",
+              "RelativeToolTip": "ExpenseManager.App\\WebAssets\\components\\header.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-16T08:52:05.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "boostrap.min.css",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\libs\\boostrap.min.css",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\WebAssets\\libs\\boostrap.min.css",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\libs\\boostrap.min.css",
+              "RelativeToolTip": "ExpenseManager.App\\WebAssets\\libs\\boostrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-16T08:51:48.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "chart.js",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\libs\\chart.js",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\WebAssets\\libs\\chart.js",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\libs\\chart.js",
+              "RelativeToolTip": "ExpenseManager.App\\WebAssets\\libs\\chart.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-16T08:51:28.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "signup.html",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\pages\\signup.html",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\WebAssets\\pages\\signup.html",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\pages\\signup.html",
+              "RelativeToolTip": "ExpenseManager.App\\WebAssets\\pages\\signup.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-16T08:50:11.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\pages\\login.html",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\WebAssets\\pages\\login.html",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\pages\\login.html",
+              "RelativeToolTip": "ExpenseManager.App\\WebAssets\\pages\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-16T08:49:39.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ExpenseManager.App\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:01:00.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\App.xaml.cs",
+              "RelativeToolTip": "ExpenseManager.App\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:39:36.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\MainWindow.xaml",
+              "RelativeToolTip": "ExpenseManager.App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-15T14:37:30.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\index.html",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\WebAssets\\index.html",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\WebAssets\\index.html",
+              "RelativeToolTip": "ExpenseManager.App\\WebAssets\\index.html",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAUwK0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-15T14:37:22.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\App.xaml",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\App.xaml",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\App.xaml",
+              "RelativeToolTip": "ExpenseManager.App\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-15T14:37:02.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExpenseManager.App.csproj",
+              "DocumentMoniker": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\ExpenseManager.App.csproj",
+              "RelativeDocumentMoniker": "ExpenseManager.App\\ExpenseManager.App.csproj",
+              "ToolTip": "C:\\Users\\tanbe\\source\\repos\\Lap Trinh Truc Quan_BTL\\ExpenseManager.App\\ExpenseManager.App.csproj",
+              "RelativeToolTip": "ExpenseManager.App\\ExpenseManager.App.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T09:23:10.732Z"
             }
           ]
         }
